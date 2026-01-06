@@ -16,4 +16,4 @@ jobs:
       uses: bitovi/github-actions-react-to-github-pages@v1.2.4
       with:
         path: dist # change to your build folder
-        install_command: "pnpm i"
+        install_command: "npm i -g pnpm && pnpm i"
