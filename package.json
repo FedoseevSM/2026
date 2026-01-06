@@ -1,6 +1,7 @@
 {
   "name": "magic-patterns-vite-template",
   "version": "0.0.1",
+  "packageManager": "pnpm@9.0.0",
   "private": true,
   "type": "module",
   "scripts": {
